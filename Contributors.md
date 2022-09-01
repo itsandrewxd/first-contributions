@@ -5,6 +5,7 @@
 - [Beshir Saeed] (https://github.com/Bishosba)
 - [Natalia Chotza] (https://github.com/NataliaChotza)
 - [Julian Schiedel] (https://github.com/palladio11)
+- [Francis Alegre] (https://github.com/francisaerol)
 - [Jon Gonzalez] (https://github.com/jgonz-hub)
 -[Prakhar](https://github.com/prakhar2010030)
 - [Akash Srivastava] (https://github.com/Akashsri3bi)
@@ -52,6 +53,7 @@
 - [Roshan Christy](https://github.com/roshan-christy)
 - [maxkup19](https://github.com/maxkup19)
 - [Bigdwarf43](https://github.com/bigdwarf43)
+i [Ohlylo](https://github.com/ohlylo)
 - [Meet Rajput](https://github.com/MeetRajput00)
 - [kubahirsch](https://github.com/kubahirsch)
 - [Varun S V](https://github.com/Varun-SV/)
@@ -208,6 +210,7 @@
 - [Cody A]
 - [prakass sookdev]
 - [Jack Doe]
+- [Logan Liong](https://github.com/Loganbliong)
 - [Siddhartha Shandilya](https://github.com/SiddharthaShandilya)
 - [RaviVarma-Bandi](https://github.com/RaviVarma-Bandi)
 - [Nuno Ferreira](https://github.com/Nuno-Ferreira)
@@ -535,6 +538,7 @@
 - [Miguel Angel Francisco](https://github.com/Migu3lito5)
 - [Sameed Khan](https://github.com/Sameedkhan25)
 - abdullah muhammad moosa
+- Shakhtar
 - [Arun Sagar S A](https://github.com/arun-sagar-s-a)
 - [Sebastian Hoyos](https://github.com/tamerlantian)
 - [vivekanand_sinha](https://github.com/VIVEKANAND-SINHA)
@@ -1365,6 +1369,7 @@
 - [Nicholas Anich](https://github.com/NicholasAnich)
 - [Nabil Noh](https://github.com/mrnabilnoh)
 - [Xelame](https://github.com/Xelame)
+- [Louis Moses](https://github.com/louismoses)
 - [Aaron Rock Menezes](https://github.com/aaronrockmenezes)
 - [Snehashish Ghosh](https://github.com/snehashish-ghosh98)
 - [Carl Shone](https://github.com/carlts93)
